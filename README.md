@@ -8,13 +8,13 @@ This guide is intended to be a fully self-enclosed guide. While there will be li
 
 ## New to IIIF? Start here
 
-[🖼️ IIIF Quick Start Guide](/IIIF%20Quick%20Start%20Guide)
+[🖼️ IIIF Quick Start Guide](/IIIF%20Quick%20Start%20Guide.md)
 
 [🖥️ Who should use IIIF?](/Who%20should%20use%20IIIF?.md)
 
-[📓 IIIF Dictionary](/IIIF%20Dictionary)
+[📓 IIIF Dictionary](/IIIF%20Dictionary.md)
 
-[❓ IIIF FAQ](/IIIF%20FAQ)
+[❓ IIIF FAQ](/IIIF%20FAQ.md)
 
 **Coming soon**
 
