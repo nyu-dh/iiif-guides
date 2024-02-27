@@ -31,12 +31,12 @@ By doing this tiling, IIIF viewers only download the tile(s) being zoomed into f
 
 Using the same source content (the painting), we can see some of the benefits of using IIIF-compliant images and IIIF viewers. This is the painting viewed with an IIIF viewer, [Mirador](https://mirador-dev.netlify.app/__tests__/integration/mirador/), while the other is a hosted .jpg on [Artchive's server](https://www.artchive.com/wp-content/uploads/2023/04/Self-portrait-Dedicated-To-Paul-Gauguin-1888-by-Vincent-Van-Gogh.jpg) seen through the browser. 
 
-<img src="images/Mirador Viewer - VG.gif" alt="VG Self Portrait - Original" style="width:calc(100% - 5px); margin-right:10px;">
+<img src="images/Mirador Viewer - VG.gif" alt="VG Self Portrait - Original" style="width:calc(50% - 5px); margin-right:10px;">
 </p>
 
 Compare this to a .jpg of the painting hosted on [Artchive's server](https://www.artchive.com/wp-content/uploads/2023/04/Self-portrait-Dedicated-To-Paul-Gauguin-1888-by-Vincent-Van-Gogh.jpg), seen through the browser viewer: 
 
-<img src="images/browser view - VG.gif" alt="VG Self Portrait - Original" style="width:calc(100% - 5px); margin-right:10px;">
+<img src="images/browser view - VG.gif" alt="VG Self Portrait - Original" style="width:calc(50% - 5px); margin-right:10px;">
 </p>
 
 You _could_ host a full-scale image on a server, but they are generally very large and take more time to download. This hosting also only solves the quality issue, but does not allow for the interoperability with other APIs that IIIF does. For example, if you wanted to add an annotation or additional context to the photo on the right, you may have to download and load it into another program (or several). Using the IIIF link for this painting, you can bring it into any other IIIF API.
