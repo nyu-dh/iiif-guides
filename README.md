@@ -8,17 +8,17 @@ This guide is intended to be a fully self-enclosed guide. While there will be li
 
 ## New to IIIF? Start here
 
-[🖼️ IIIF Quick Start Guide](/IIIF%20Quick%20Start%20Guide.md)
+[🖼️ IIIF Quick Start Guide](/Quick-Start_Guide.md)
 
-[🖥️ Who should use IIIF?](/Who%20should%20use%20IIIF?.md)
+[🖥️ Who should use IIIF?](/Who_Should_Use_IIIF.md)
 
-[📓 IIIF Dictionary](/IIIF%20Dictionary.md)
+[📓 IIIF Dictionary](/Dictionary.md)
 
-[❓ IIIF FAQ](/IIIF%20FAQ.md)
+[❓ IIIF FAQ](/FAQ.md)
 
 **Coming soon**
 
-[🔎 _How does IIIF Work?_](/How%20does%20IIIF%20Work?.md)
+[🔎 _How does IIIF Work?_](/How_Does_IIIF_Work.md)
 
 ## Why IIIF? 
 🌄 **Image Delivery** 
