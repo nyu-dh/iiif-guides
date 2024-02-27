@@ -25,7 +25,7 @@ This guide is intended to be a fully self-enclosed guide. While there will be li
 
 IIIF allows makes sharing and displaying large images faster and more accessible. With IIIF, image delivery is fast, with capabilities for image manipulation without changing the original file (size, scale, rotation, quality, and format).
 
-🔗**Upload once, use anywhere**
+🔗 **Upload once, use anywhere**
 
 IIIF is the method, but not the goal! IIIF allows users to quickly take content from one software to another. With IIIF, you can crop, scale, and annotate an image without ever having to locally download an image file. IIIF allows users to upload a single copy of a file that can then be embedded and imported into any IIIF software through a link.
 
