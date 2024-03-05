@@ -1,4 +1,4 @@
-# IIIF Quick-Start Guide
+# 🖼️ IIIF Quick-Start Guide
 
 IIIF (pronounced triple-i-f), simply put, is a **method of displaying content on the web with standards, rules and guidelines that allow that content to seamlessly transition into different views, formats, and applications.**
 
@@ -40,9 +40,28 @@ Compare this to a .jpg of the painting hosted on [Artchive's server](https://www
 
 You _could_ host a full-scale image on a server, but they are generally very large and take more time to download. This hosting also only solves the quality issue, but does not allow for the interoperability with other APIs that IIIF does. For example, if you wanted to add an annotation or additional context to the photo on the right, you may have to download and load it into another program (or several). Using the IIIF link for this painting, you can bring it into any other IIIF API.
 
-## What are APIs?
-API stands for Application Programming Interface. In the context of IIIF, APIs define how users can interact with content once it’s compliant with IIIF standards. There are many, but the two people interface with most often are the Image API and Presentation API.
-- Image API
-- Presentation API 
+## Cool applications of IIIF! 
+**Reconstruct manuscripts with missing elements**
+<p><img src="images/Biblissima_Manuscript.gif" alt="Biblissima's Manuscript 5 Reconstruction, using OpenSeadragon viewer" style="width:calc(50% - 5px); margin-right:10px;"></p>
 
-## What can you do with IIIF?
+[Biblissima's Manuscript 5 of the Municipal Library of Châteauroux](https://demos.biblissima.fr/chateauroux/osd-demo/)
+
+By using IIIF Image and Presentation APIs with an OpenSeadragon viewer, Biblissima reconstructed a manuscript that previously had illustrations cut out and sent to different institutions. Both institutions made their collections openly available via IIIF, which allowed Biblissima to digitally reunite the illustrations with their pages. 
+
+**Add context to paintings** 
+<p><img src="images/Rijksmuseum_The_Milkmaid.gif" alt="Rijkmuseum's display of The Milkmaid" style="width:calc(50% - 5px); margin-right:10px;"></p>
+
+[Rijksmuseum's Series on _The Milkmaid_](https://www.rijksmuseum.nl/en/stories/themes/vermeer/story/secrets-of-the-milkmaid)
+
+By using IIIF annotations, Rijksmuseum created interactive displays of famous artwork, like _The Milkmaid_ by Johannes Vermeer, to give additional information on the sketching process, the items in the painting, and the series the painting was a part of.
+
+**Create new portraits**
+<p><img src="images/AntlitzNinja_Portraits.gif" alt="Leander Seige's Antlitz Ninja, a Portrait creator" style="width:calc(50% - 5px); margin-right:10px;"></p>
+
+[Antlitz Ninja (Leander Seige)](https://antlitz.ninja/)
+
+Antlitz Ninja, by Leander Seige, uses the Image and Presentation APIs and an OpenSeadragon viewer to enable zooming and realignment of paintings to create new portraits. 
+
+[**See more uses of IIIF in action at IIIF's demo page**](https://iiif.io/demos/)
+
+**Next: [📓 Understanding APIs](/Understanding_APIs.md)**

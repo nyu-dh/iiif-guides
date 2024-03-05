@@ -16,9 +16,7 @@ This guide is intended to be a fully self-enclosed guide. While there will be li
 
 [❓ IIIF FAQ](/FAQ.md)
 
-**Coming soon**
-
-[🔎 _How does IIIF Work?_](/How_Does_IIIF_Work.md)
+[🔎 Understanding APIs](/Understanding_APIs.md)
 
 ## Why IIIF? 
 🌄 **Image Delivery** 

@@ -1,4 +1,4 @@
-# Who should use IIIF? 
+# 🖥️ Who should use IIIF? 
 ## End Users (those who use IIIF's capabilities)
 
 - Researchers, librarians, writers, journalists 
