@@ -10,13 +10,17 @@ This guide is intended to be a fully self-enclosed guide. While there will be li
 
 [🖼️ IIIF Quick Start Guide](/Quick-Start_Guide.md)
 
-[🖥️ Who should use IIIF?](/Who_Should_Use_IIIF.md)
+[🔎 Understanding APIs](/Understanding_APIs.md)
 
 [📓 IIIF Dictionary](/Dictionary.md)
 
 [❓ IIIF FAQ](/FAQ.md)
 
-[🔎 Understanding APIs](/Understanding_APIs.md)
+[🖥️ Who should use IIIF?](/Who_Should_Use_IIIF.md)
+
+**Coming Soon**
+
+[How does IIIF Work?](/How_Does_IIIF_Work.md)
 
 ## Why IIIF? 
 🌄 **Image Delivery** 
