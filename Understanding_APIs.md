@@ -35,12 +35,16 @@ _A Creek in St. Thomas_, by Camille Pissarro (1856) - Full display:
 The same painting, square + black and white display:
 ![_A Creek in St. Thomas, Camille Pissarro_](https://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/square/full/0/gray.jpg)
 
-<p>Here, the link changes to: https://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/<b><span style="color: #cb4335"><i>square</b></i></span>/full/0/<b><i><span style="color: #cb4335">gray</b></i></span>.jpg</p>
+Here, the link changes to: 
+
+<p>h<span>ttps://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/<b><span style="color: #cb4335"><i>square</b></i></span>/full/0/<b><i><span style="color: #cb4335">gray</b></i></span>.jpg</span></p>
 
 The same painting, with a portion selected and rotated: 
 ![_A Creek in St. Thomas, Camille Pissarro_](https://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/800,600,900,800/full/90/default.jpg)
 
-<p>Here, the link changes to: https://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/<b><span style="color: #cb4335"><i>800,600,900,800</b></i></span>/full/<b><span style="color: #cb4335"><i>90</b></i></span>/default.jpg</p>
+Here, the link changes to: 
+
+h<span>ttps://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/<b><span style="color: #cb4335"><i>800,600,900,800</b></i></span>/full/<b><span style="color: #cb4335"><i>90</b></i></span>/default.jpg</span></p>
 
 Try to play around with the different uses! The link for this image is [https://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/full/full/0/default.jpg](https://media.nga.gov/iiif/b1461d28-88d4-4aee-88dd-a78d368308ff/full/full/0/default.jpg), and you can edit it directly in your browser to see the variety of displays you can get.
 
